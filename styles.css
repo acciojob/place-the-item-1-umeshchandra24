@@ -1,5 +1,7 @@
 .holder{
-    flex-flow: row wrap;
+    flex-direction: row;
     justify-content: space-between;
+    flex-flow: wrap;
+
 }
 /* Your CSS Code here. */
